@@ -1,0 +1,1 @@
+AI coding assistants speed up the boring parts of programming, such as boilerplate and repetitive refactors. They are less reliable at deciding whether their own suggestion is right, so the code still needs review and tests.
